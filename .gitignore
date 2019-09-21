@@ -1,2 +1,8 @@
 TaskManagement/task_mgn_wrk_space/.metadata
 TaskManagement/task_mgn_wrk_space/.metadata/*
+/build/
+/sdkconfig
+/sdkconfig.old
+/.cproject
+/.settings/
+/.project
